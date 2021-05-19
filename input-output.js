@@ -1,3 +1,4 @@
+
 var nome, idade;
 nome= prompt("digite o seu nome:")
 nota= prompt("digite a sua nota:")
